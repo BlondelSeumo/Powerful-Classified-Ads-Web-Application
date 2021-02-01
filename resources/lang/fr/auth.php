@@ -1,0 +1,27 @@
+<?php 
+
+return [
+    'failed' => 'Ces paramètres d\'identification ne sont pas valide.',
+    'throttle' => 'Trop de tentatives de connexion. Veuillez réessayer dans :seconds secondes.',
+    'login' => 'S\'identifier',
+    'register' => 'S\'inscrire',
+    'account_info' => 'Informations de compte',
+    'change_info' => 'Modifier les informations',
+    'change_password' => 'Changer le mot de passe',
+    'logout' => 'Se déconnecter',
+    'remember_me' => 'Souviens-toi de moi',
+    'information_updated' => 'Vos informations ont été mises à jour.',
+    'name' => 'Nom',
+    'email' => 'Email',
+    'password' => 'Mot de passe',
+    'confirm_password' => 'Confirmez le mot de passe',
+    'old_password' => 'Ancien mot de passe',
+    'new_password' => 'Nouveau mot de passe',
+    'cancel' => 'Annuler',
+    'reset_password' => 'Réinitialiser le mot de passe',
+    'send_password_reset_link' => 'Envoyer le lien de réinitialisation du mot de passe',
+    'forgot_password_question' => 'Mot de passe oublié?',
+    'wrong_password' => 'L\'ancien mot de passe que vous avez entré est incorrect.',
+    'password_updated' => 'Votre mot de passe a été changé.',
+    'registration_closed' => 'L\'inscription est fermée.',
+];

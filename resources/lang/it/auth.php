@@ -1,0 +1,27 @@
+<?php 
+
+return [
+    'failed' => 'Queste credenziali non corrispondono nei nostri database',
+    'throttle' => 'Troppi tentativi di accesso. Riprova tra: secondi',
+    'login' => 'login',
+    'register' => 'Registrati',
+    'account_info' => 'Account info',
+    'change_info' => 'Cambia info',
+    'change_password' => 'Cambia password',
+    'logout' => 'Sloggati',
+    'remember_me' => 'Ricordami',
+    'information_updated' => 'Le tue informazioni sono state aggiornate.',
+    'name' => 'Nome',
+    'email' => 'Email',
+    'password' => 'Password',
+    'confirm_password' => 'Conferma la Password',
+    'old_password' => 'Vecchia Password',
+    'new_password' => 'Nuova Password',
+    'cancel' => 'Cancella',
+    'reset_password' => 'Ripristina Password',
+    'send_password_reset_link' => 'Invia link per reimpostare la password',
+    'forgot_password_question' => 'Hai dimenticato la password?',
+    'wrong_password' => 'La vecchia password inserita è sbagliata.',
+    'password_updated' => 'La tua password è stata modificata.',
+    'registration_closed' => 'La registrazione sono chiuse.',
+];

@@ -1,0 +1,27 @@
+<?php
+
+return [
+	'failed' => 'Diese Anmeldeinformationen stimmen nicht mit unseren Aufzeichnungen überein.',
+	'throttle' => 'Zu viele Anmeldeversuche. Bitte versuchen Sie es erneut :seconds Sekunden.',
+	'login' => 'Einloggen',
+	'register' => 'Registrieren',
+	'account_info' => 'Kontoinformation',
+	'change_info' => 'Kontoinformation ändern',
+	'change_password' => 'Passwort ändern',
+	'logout' => 'Ausloggen',
+	'remember_me' => 'Eingeloggt bleiben',
+	'information_updated' => 'Ihre Informationen wurden aktualisiert.',
+	'name' => 'Name',
+	'email' => 'Email',
+	'password' => 'Passwort',
+	'confirm_password' => 'Passwort bestätigen',
+	'old_password' => 'Altes Passwort',
+	'new_password' => 'Neues Passwort',
+	'cancel' => 'Abbrechen',
+	'reset_password' => 'Passwort zurücksetzen',
+	'send_password_reset_link' => 'Link zum Zurücksetzen des Passworts senden',
+	'forgot_password_question' => 'Passwort vergessen?',
+	'wrong_password' => 'Das alte Passwort, das Sie eingegeben haben, ist falsch.',
+	'password_updated' => 'Ihr Passwort wurde geändert.',
+	'registration_closed' => 'Die Registrierung ist geschlossen.',
+];

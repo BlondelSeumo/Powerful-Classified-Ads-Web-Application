@@ -1,0 +1,8 @@
+.quarantine/
+.tmb/
+/app/logo/*
+/app/categories/custom/*
+/avatars/*
+/files/*
+/demo/
+!.gitignore
